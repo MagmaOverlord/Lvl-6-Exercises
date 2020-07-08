@@ -1,0 +1,13 @@
+D:\Programming\C#\CwK-lvl-6\Recursion-test\bin\Debug\netcoreapp3.1\Recursion-test.exe
+D:\Programming\C#\CwK-lvl-6\Recursion-test\bin\Debug\netcoreapp3.1\Recursion-test.deps.json
+D:\Programming\C#\CwK-lvl-6\Recursion-test\bin\Debug\netcoreapp3.1\Recursion-test.runtimeconfig.json
+D:\Programming\C#\CwK-lvl-6\Recursion-test\bin\Debug\netcoreapp3.1\Recursion-test.runtimeconfig.dev.json
+D:\Programming\C#\CwK-lvl-6\Recursion-test\bin\Debug\netcoreapp3.1\Recursion-test.dll
+D:\Programming\C#\CwK-lvl-6\Recursion-test\bin\Debug\netcoreapp3.1\Recursion-test.pdb
+D:\Programming\C#\CwK-lvl-6\Recursion-test\obj\Debug\netcoreapp3.1\Recursion-test.csprojAssemblyReference.cache
+D:\Programming\C#\CwK-lvl-6\Recursion-test\obj\Debug\netcoreapp3.1\Recursion-test.csproj.CoreCompileInputs.cache
+D:\Programming\C#\CwK-lvl-6\Recursion-test\obj\Debug\netcoreapp3.1\Recursion-test.AssemblyInfoInputs.cache
+D:\Programming\C#\CwK-lvl-6\Recursion-test\obj\Debug\netcoreapp3.1\Recursion-test.AssemblyInfo.cs
+D:\Programming\C#\CwK-lvl-6\Recursion-test\obj\Debug\netcoreapp3.1\Recursion-test.dll
+D:\Programming\C#\CwK-lvl-6\Recursion-test\obj\Debug\netcoreapp3.1\Recursion-test.pdb
+D:\Programming\C#\CwK-lvl-6\Recursion-test\obj\Debug\netcoreapp3.1\Recursion-test.genruntimeconfig.cache

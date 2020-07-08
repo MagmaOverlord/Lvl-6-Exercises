@@ -1,0 +1,13 @@
+D:\Programming\C#\CwK-lvl-6\intro\bin\Debug\netcoreapp3.1\intro.exe
+D:\Programming\C#\CwK-lvl-6\intro\bin\Debug\netcoreapp3.1\intro.deps.json
+D:\Programming\C#\CwK-lvl-6\intro\bin\Debug\netcoreapp3.1\intro.runtimeconfig.json
+D:\Programming\C#\CwK-lvl-6\intro\bin\Debug\netcoreapp3.1\intro.runtimeconfig.dev.json
+D:\Programming\C#\CwK-lvl-6\intro\bin\Debug\netcoreapp3.1\intro.dll
+D:\Programming\C#\CwK-lvl-6\intro\bin\Debug\netcoreapp3.1\intro.pdb
+D:\Programming\C#\CwK-lvl-6\intro\obj\Debug\netcoreapp3.1\intro.csprojAssemblyReference.cache
+D:\Programming\C#\CwK-lvl-6\intro\obj\Debug\netcoreapp3.1\intro.csproj.CoreCompileInputs.cache
+D:\Programming\C#\CwK-lvl-6\intro\obj\Debug\netcoreapp3.1\intro.AssemblyInfoInputs.cache
+D:\Programming\C#\CwK-lvl-6\intro\obj\Debug\netcoreapp3.1\intro.AssemblyInfo.cs
+D:\Programming\C#\CwK-lvl-6\intro\obj\Debug\netcoreapp3.1\intro.dll
+D:\Programming\C#\CwK-lvl-6\intro\obj\Debug\netcoreapp3.1\intro.pdb
+D:\Programming\C#\CwK-lvl-6\intro\obj\Debug\netcoreapp3.1\intro.genruntimeconfig.cache
