@@ -10,10 +10,18 @@ namespace Classes_Practice
         public string resistance;
         public int hp;
 
-        public void greeting() {
+        /*public void greeting() {
             Console.WriteLine(name+"!");
+        }*/
+        public void greeting(int hp) {
+            Console.WriteLine("Hp: "+hp);
         }
 
+        //can be overridden by its inheritor class
+        public virtual void greeting() {
+            Console.WriteLine(name+"!");
+            Console.WriteLine("Hp: "+hp);
+        }
     }
 
     class Water: Pokemon {
@@ -24,6 +32,10 @@ namespace Classes_Practice
             pokeType = "water";
             weakness1 = "grass";
             weakness2 = "electric";
+        }
+        //overriding the old method
+        public override void greeting() {
+            Console.WriteLine(pokeType);
         }
     }
 
@@ -38,6 +50,7 @@ namespace Classes_Practice
             Console.WriteLine("Type: "+squirtle.pokeType);
             Console.Write("Greeting: ");
             squirtle.greeting();
+            squirtle.greeting(squirtle.hp);
             Console.WriteLine("Weaknesses: "+squirtle.weakness1+" and "+squirtle.weakness2);
         }
 

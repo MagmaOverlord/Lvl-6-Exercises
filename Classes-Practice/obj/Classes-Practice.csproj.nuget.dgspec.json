@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming\\C#\\CwK-lvl-6\\Classes-Practice\\Classes-Practice.csproj": {}
+    "D:\\Programming\\C#\\CwK-lvl-6\\classes-practice\\Classes-Practice.csproj": {}
   },
   "projects": {
-    "D:\\Programming\\C#\\CwK-lvl-6\\Classes-Practice\\Classes-Practice.csproj": {
+    "D:\\Programming\\C#\\CwK-lvl-6\\classes-practice\\Classes-Practice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\C#\\CwK-lvl-6\\Classes-Practice\\Classes-Practice.csproj",
+        "projectUniqueName": "D:\\Programming\\C#\\CwK-lvl-6\\classes-practice\\Classes-Practice.csproj",
         "projectName": "Classes-Practice",
-        "projectPath": "D:\\Programming\\C#\\CwK-lvl-6\\Classes-Practice\\Classes-Practice.csproj",
+        "projectPath": "D:\\Programming\\C#\\CwK-lvl-6\\classes-practice\\Classes-Practice.csproj",
         "packagesPath": "C:\\Users\\tomas\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\C#\\CwK-lvl-6\\Classes-Practice\\obj\\",
+        "outputPath": "D:\\Programming\\C#\\CwK-lvl-6\\classes-practice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tomas\\AppData\\Roaming\\NuGet\\NuGet.Config"
